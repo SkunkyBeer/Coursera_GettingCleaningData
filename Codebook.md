@@ -16,7 +16,7 @@ A full description of the metadata is given in the file 'features_info.txt', whi
    selected for generating the training data and 30% the test data.
 
 #   Files:
-   =========================================
+   --------------
    'README.txt'
 	'features_info.txt': Shows information about the variables used on the feature
        vector.
@@ -26,7 +26,7 @@ A full description of the metadata is given in the file 'features_info.txt', whi
 	[ ... other files ...]
 
 #	Notes:
-	======
+	-------------
 	- Features are normalized and bounded within [-1,1].
 	- Each feature vector is a row on the text file.
 
